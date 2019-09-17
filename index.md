@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+# Fahad Sperinck
 
-You can use the [editor on GitHub](https://github.com/sperinck/sperinck.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a lapsed mathematician sneaking his way into neuroscience. I'm interested in the neural correlates of psychedelic states and the OpenWorm project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm currently studying an MSc Psychology Conversion course (2019-2020) at the University of Reading. Prior to this, I read Mathematics at Corpus Christi College, University of Oxford (2007-2011). I was also, for a time, a member of a [progressive death metal band](https://www.google.co.uk/search?q=ageless+oblivion).
 
-### Markdown
+## Contact
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
