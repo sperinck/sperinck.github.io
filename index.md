@@ -2,6 +2,8 @@ I'm a lapsed mathematician sneaking his way into neuroscience. I'm interested in
 
 I'm currently studying an MSc Psychology Conversion course (2019-2020) at the University of Reading. Prior to this, I read Mathematics at Corpus Christi College, University of Oxford (2007-2011). I was also, for a time, a member of a [progressive death metal band](https://www.google.co.uk/search?q=ageless+oblivion).
 
+You can find my github at [github.com/sperinck](https://github.com/sperinck).
+
 <!---
 ## Contact
 
