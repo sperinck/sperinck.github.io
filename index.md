@@ -4,9 +4,9 @@ I'm currently studying an MSc Psychology Conversion course (2019-2020) at the Un
 
 You can find my github at [github.com/sperinck](https://github.com/sperinck).
 
-Contact me at ```sperinck@gmail.com```.
+Contact me at ```sperinck-at-gmail.com```.
 
-This page is new (updated 17th September 2019), so there isn't much here at the moment. More will be added soon.
+This page is new (updated 17th September 2019), so there isn't much here at the moment. More exciting words will be added soon.
 <!---
 ## Welcome to GitHub Pages
 
