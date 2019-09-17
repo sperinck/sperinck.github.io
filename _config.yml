@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 title: Fahad Sperinck
 description: --open-the-pod-bay-doors-hal
-github:
-  is_project_page: False
+github.is_project_page: false
