@@ -2,7 +2,7 @@ I'm a lapsed mathematician sneaking his way into neuroscience. I'm interested in
 
 I'm currently studying an MSc Psychology Conversion course (2019-2020) at the University of Reading. Prior to this, I read Mathematics at Corpus Christi College, University of Oxford (2007-2011). I was also, for a time, a member of a [progressive death metal band](https://www.google.co.uk/search?q=ageless+oblivion).
 
-%
+<!---
 ## Contact
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -33,4 +33,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.%
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
