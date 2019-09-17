@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: Fahad Sperinck
-description: \"Open the pod bay doors please, Hal.\"
+description: ""Open the pod bay doors please, Hal.""
 github:
-  is_project_page: false
+  is_project_page: False
