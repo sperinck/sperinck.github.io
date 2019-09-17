@@ -9,6 +9,7 @@ Contact me at ```sperinck-at-gmail.com```.
 This page is new (updated 17th September 2019), so there isn't much here at the moment. More exciting words will be added soon!
 
 <!---
+GitHub Pages are a great way to showcase some open source projects, host a blog, or even share your résumé. This guide will help get you started on creating your next website. 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sperinck/sperinck.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
