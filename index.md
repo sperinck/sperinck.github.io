@@ -1,6 +1,6 @@
 I'm a lapsed mathematician sneaking his way into neuroscience. I'm interested in the neural correlates of psychedelic states and the OpenWorm project.
 
-![Holding Due North](https://cdn.shopify.com/s/files/1/1098/2840/products/hdn_1024x1024.jpg)
+![Holding Due North](https://cdn.shopify.com/s/files/1/1098/2840/products/hdn_1024x1024.jpg =250x)
 
 I'm currently studying an MSc Psychology Conversion course (2019-2020) at the University of Reading. I was a workshop participant at the [Neuroscience Data Challenge 2019](http://www.bristol.ac.uk/neural-dynamics/information/neuroscience-data-challenge/) at the University of Bristol, where my group was tasked with analysing a dataset from a [behavioural experiment](https://www.biorxiv.org/content/biorxiv/early/2018/01/04/182246.full.pdf) on working memory in rats, mostly using Python. Prior to this, I read Mathematics at Corpus Christi College, University of Oxford (2007-2011). I was also, for a time, a member of a [progressive death metal band](https://www.google.co.uk/search?q=ageless+oblivion).
 
