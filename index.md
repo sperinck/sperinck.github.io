@@ -8,7 +8,7 @@ You can find my github at [github.com/sperinck](https://github.com/sperinck).
 
 Contact me at ```sperinck-at-gmail.com```.
 
-This page is brand spanking new (updated 18th September 2019), so there isn't much here at the moment. More exciting words will be added soon!
+This page is new (updated 18th September 2019), so there isn't much here at the moment. More exciting stuff will be added soon!
 
 <!---
 GitHub Pages are a great way to showcase some open source projects, host a blog, or even share your résumé. This guide will help get you started on creating your next website. 
