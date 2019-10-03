@@ -2,7 +2,7 @@ I'm a lapsed mathematician sneaking his way into neuroscience. I'm interested in
 
 ----------------
 
-I'm currently studying an MSc Psychology Conversion course (2019-2020) at the University of Reading. I was a workshop participant at the [Neuroscience Data Challenge 2019](http://www.bristol.ac.uk/neural-dynamics/information/neuroscience-data-challenge/) at the University of Bristol, where my group was tasked with analysing a dataset from a [behavioural experiment](https://www.biorxiv.org/content/biorxiv/early/2018/01/04/182246.full.pdf) on working memory in rats. Prior to this, I read Mathematics at Corpus Christi College, University of Oxford (2007-2011). I was also, for a time, a member of a [progressive death metal band](https://www.google.co.uk/search?q=ageless+oblivion) (2012-2014). I currently tutor mathematics up to university level in central Reading (2014-present).
+I was a workshop participant at the [Neuroscience Data Challenge 2019](http://www.bristol.ac.uk/neural-dynamics/information/neuroscience-data-challenge/) at the University of Bristol, where my group was tasked with analysing a dataset from a [behavioural experiment](https://www.biorxiv.org/content/biorxiv/early/2018/01/04/182246.full.pdf) on working memory in rats. Prior to this, I read Mathematics at Corpus Christi College, University of Oxford (2007-2011). I was also, for a time, a member of a [progressive death metal band](https://www.google.co.uk/search?q=ageless+oblivion) (2012-2014). I currently tutor mathematics up to university level in central Reading (2014-present).
 
 You can find my github at [github.com/sperinck](https://github.com/sperinck).
 
@@ -11,6 +11,10 @@ Contact me at ```sperinck-at-gmail.com```.
 This page is new (updated 18th September 2019), so there isn't much here at the moment. More exciting stuff will be added soon!
 
 <!---
+
+I'm currently studying an MSc Psychology Conversion course (2019-2020) at the University of Reading.
+add back when Joanne isn't looking.
+
 GitHub Pages are a great way to showcase some open source projects, host a blog, or even share your résumé. This guide will help get you started on creating your next website. 
 ## Welcome to GitHub Pages
 
