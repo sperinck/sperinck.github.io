@@ -1,4 +1,4 @@
-I'm a lapsed mathematician sneaking his way into neuroscience. I'm interested in the neural correlates of psychedelic states and the OpenWorm project.
+I'm a mathematician sneaking his way into neuroscience. I'm interested in the neural correlates of psychedelic states and the OpenWorm project. I also tutor mathematics in Reading, Berkshire.
 
 ----------------
 
@@ -11,7 +11,8 @@ Contact me at ```sperinck-at-gmail.com```.
 This page is new (updated 18th September 2019), so there isn't much here at the moment. More exciting stuff will be added soon!
 
 <!---
-
+lapsed
+get rid of tutor shit
 I'm currently studying an MSc Psychology Conversion course (2019-2020) at the University of Reading.
 add back when Joanne isn't looking.
 
