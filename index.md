@@ -8,7 +8,7 @@ You can find my github at [github.com/sperinck](https://github.com/sperinck).
 
 Contact me at ```sperinck-at-gmail.com```.
 
-This page is new (updated 18th September 2019), so there isn't much here at the moment. More exciting stuff will be added soon!
+This page is new (updated 18th November 2019), so there isn't much here at the moment. More exciting stuff soon!
 
 <!---
 
