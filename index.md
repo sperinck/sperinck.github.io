@@ -1,4 +1,4 @@
-I'm a mathematician sneaking his way into neuroscience. I'm interested in the neural correlates of psychedelic states and the OpenWorm project.
+I'm a lapsed mathematician sneaking his way into neuroscience. I'm interested in the neural correlates of psychedelic states and the OpenWorm project.
 
 ----------------
 
@@ -11,7 +11,7 @@ Contact me at ```sperinck-at-gmail.com```.
 This page is new (updated 18th September 2019), so there isn't much here at the moment. More exciting stuff will be added soon!
 
 <!---
-lapsed
+
 
 GitHub Pages are a great way to showcase some open source projects, host a blog, or even share your résumé. This guide will help get you started on creating your next website. 
 ## Welcome to GitHub Pages
