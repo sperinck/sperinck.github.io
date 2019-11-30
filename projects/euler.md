@@ -4,7 +4,7 @@
 [Python](euler/euler1-python.md) [C++](euler/euler1-cpp.md)
 
 **2** Even Fibonacci numbers  
-Python C++
+[Python](euler/euler2-python.md) [C++](euler/euler2-cpp.md)
 
 **3** Largest prime factor  
-Python C++
+[Python](euler/euler3-python.md)
