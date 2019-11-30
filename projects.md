@@ -1,3 +1,3 @@
 ## Projects
 
-Solutions to some Project Euler problems, in Python and C++.
+Solutions to some [Project Euler](projects/euler.md) problems, in Python and C++.
