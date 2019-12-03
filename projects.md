@@ -7,4 +7,4 @@ The book *An Introduction to Statistical Learning* by Gareth James was indispens
 ## Project Euler
 See [here](projects/euler.md) for my solutions to some Project Euler problems, in Python and C++.  
 
-<sup>I am still a novice at C++. Though I don't like the syntax compared to the ease of Python, I am pushing past this in the vague hope that there will be some future reward...</sup>
+<sub>*N.B. I am still a novice at C++. Though I don't like the syntax compared to the ease of Python, I am pushing past this in the vague hope that there will be some future reward...*</sub>
