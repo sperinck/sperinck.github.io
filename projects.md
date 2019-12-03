@@ -10,3 +10,6 @@ See [here](projects/euler.md) for my solutions to some Project Euler problems, i
 ![Project Euler badge](https://projecteuler.net/profile/sperinck.png)
 
 <sub>*N.B. I am still a novice at C++. Though I don't like the syntax compared to the ease of Python, I am pushing past this in the vague hope that there will be some future reward...*</sub>
+
+## OpenWorm
+In what little spare time I have left, I am currently working through the basics of NeuroML and ion channel dynamics to try and contribute to the open-source c302 modelling framework for *C. Elegans*.
