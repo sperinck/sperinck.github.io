@@ -5,6 +5,8 @@ During the summer of 2019, I worked on an independent project to apply machine l
 The book *An Introduction to Statistical Learning* by Gareth James was indispensable as a resource on how to apply this in practice. For anyone interested in doing something like this, I will put up more details soon. It was mainly to teach myself the basics of properly coding and training an SVM.
 
 ## Project Euler
-See [here](projects/euler.md) for my solutions to some Project Euler problems, in Python and C++.  
+See [here](projects/euler.md) for my solutions to some Project Euler problems, in Python and C++.
+
+![Project Euler badge](https://projecteuler.net/profile/sperinck.png)
 
 <sub>*N.B. I am still a novice at C++. Though I don't like the syntax compared to the ease of Python, I am pushing past this in the vague hope that there will be some future reward...*</sub>
