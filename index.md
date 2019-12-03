@@ -1,12 +1,10 @@
-I'm a lapsed mathematician sneaking his way into neuroscience. I'm interested in the neural correlates of psychedelic states and the OpenWorm project.
+I am a mathematician interested in computational neuroscience and the dynamics of the brain. I am currently an MSc Psychology student at the University of Reading. Prior to this I did my MMath at Corpus Christi College, University of Oxford.
 
 ----------------
 
 You can find my github at [github.com/sperinck](https://github.com/sperinck).
 
-Contact me at ```sperinck-at-gmail.com```.
-
-This page is new (updated 18th November 2019), so there isn't much here at the moment. More exciting stuff soon!
+Contact me at ```sperinck-at-gmail.com```
 
 <!---
 
