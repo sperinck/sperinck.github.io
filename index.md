@@ -1,4 +1,4 @@
-I am a mathematician interested in computational neuroscience and the dynamics of the brain. I am currently an MSc Psychology student at the University of Reading. Prior to this I did my MMath at Corpus Christi College, University of Oxford.
+I am a mathematician interested in computational neuroscience and the dynamics of the brain. I am currently an MSc Psychology student at the University of Reading. Prior to this I was an MMath at Corpus Christi College, University of Oxford.
 
 ----------------
 
