@@ -1,4 +1,4 @@
-I'm a lapsed mathematician sneaking his way into neuroscience. I am interested in the neural correlates of psychedelic states and the OpenWorm project. I'm currently an MSc Psychology student at the University of Reading. Prior to this I read Mathematics at Corpus Christi College, University of Oxford.
+I'm a mathematician interested in using mathematical methods to solve problems in neuroscience. I also tutor mathematics and physics up to A-level in Reading. I'm currently an MSc Psychology student at the University of Reading. Prior to this I read Mathematics at Corpus Christi College, University of Oxford.
 
 ----------------
 
